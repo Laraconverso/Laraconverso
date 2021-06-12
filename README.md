@@ -1,6 +1,8 @@
 ### Hi there 👋
 
+![Lara's github stats](https://github-readme-stats.vercel.app/api?username=Laraconverso&show_icons=true&theme=dracula)
 
+![Lara's Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laraconverso&layout=compact)
 <!--
 **Laraconverso/Laraconverso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
