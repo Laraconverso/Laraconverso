@@ -1,5 +1,4 @@
 ### Hi there! 👋
-My name is Lara i'm a Computer Science engineering student. 
 
 I'm currently learning Backend using Java. 
 
