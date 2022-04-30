@@ -1,6 +1,3 @@
-![07-wave](https://user-images.githubusercontent.com/63512648/166118762-bc4a2c50-3cc7-4daf-9067-fe16dc5f006c.gif)
-
-
 ### Hi there! 👋
 My name is Lara i'm a Computer Science engineering student. 
 
@@ -21,6 +18,7 @@ Contact me:</br>
 More info about my repos...
 
 ![Lara's github stats](https://github-readme-stats.vercel.app/api?username=Laraconverso&show_icons=true&theme=dracula)
+
 ![Lara's Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laraconverso&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <!--
