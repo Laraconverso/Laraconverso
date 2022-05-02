@@ -8,7 +8,7 @@ Tools i've been using:
 
 Contact me:</br>
 </br>
-[![<GitHub>](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)])(https://github.com/Laraconverso){:target="_blank" rel="noopener"}
+[![<GitHub>](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Laraconverso){:target="_blank" rel="noopener"}
   
 <a href="https://github.com/Laraconverso">![<GitHub>](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/laraconverso/">![<LinkdeIn>](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=0000)</a>
