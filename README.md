@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm currently learning Backend using Java. 
+I'm currently learning Backend with Java. 
 
 Tools i've been using:
 ....
