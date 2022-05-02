@@ -8,7 +8,6 @@ Tools i've been using:
 
 Contact me:</br>
 </br>
-[![<GitHub>](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Laraconverso){:target="_blank" rel="noopener"}
   
 <a href="https://github.com/Laraconverso">![<GitHub>](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/laraconverso/">![<LinkdeIn>](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=0000)</a>
@@ -21,7 +20,7 @@ More info about my repos...
 ![Lara's Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laraconverso&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 ![Lara's github stats](https://github-readme-stats.vercel.app/api?username=Laraconverso&show_icons=true&theme=dracula)
 
-
+[HOLA](https://github.com/Laraconverso){:target="_blank" rel="noopener"}
 <!--
 **Laraconverso/Laraconverso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
