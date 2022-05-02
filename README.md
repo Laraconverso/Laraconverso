@@ -9,7 +9,7 @@ Tools i've been using:
 Contact me:</br>
 </br>
 <a href="https://github.com/Laraconverso">![<GitHub>](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
-<a href="www.linkedin.com/in/laraconverso">![<LinkdeIn>](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=0000)</a>
+<a href="https://www.linkedin.com/in/laraconverso/">![<LinkdeIn>](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=0000)</a>
 <a href="">![<mail>](https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="">![<Twitter>](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="">![<Instagram>](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)</a>
