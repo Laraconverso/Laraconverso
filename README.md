@@ -1,6 +1,7 @@
-### Hi there! 👋
+### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm currently learning Backend with Java. 
+📚 I'm a Computer Science Engineering Student @ FIUBA.</br>
+📚 And also I'm currently learning Backend with Java.
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -24,13 +25,9 @@ I'm currently learning Backend with Java.
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a>
 
-....
-# ⚠️ README UNDER CONSTRUCTION ⚠️ 
 </br>
+<h3>Contact me: </h3>
 
-Contact me:</br>
-</br>
-  
 <a href="https://github.com/Laraconverso">![<GitHub>](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/laraconverso/">![<LinkdeIn>](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=0000)</a>
 <a href="mailto:laraconverso@gmail.com" >![<Mail>](https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)</a>
@@ -40,7 +37,7 @@ Contact me:</br>
 More info about my repos...
 
 ![Lara's Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laraconverso&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-![Lara's github stats](https://github-readme-stats.vercel.app/api?username=Laraconverso&show_icons=true&theme=dracula)
+![Lara's github stats](https://github-readme-stats.vercel.app/api?username=Laraconverso&show_icons=true&theme=radical)
 
 <!--
 **Laraconverso/Laraconverso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
