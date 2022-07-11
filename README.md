@@ -1,4 +1,4 @@
-### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3%">
+### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20%">
 
 📚 I'm a Computer Science Engineering Student @ FIUBA. And a Full Stack Developer Student @ CTD by Digital House.</br>
 💡 I'm currently learning Backend with Java.
