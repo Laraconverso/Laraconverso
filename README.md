@@ -62,7 +62,9 @@ icon colors from: https://simpleicons.org/?q=my
 <a href="mailto:laraconverso@gmail.com" >![<Mail>](https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://twitter.com/laritss1">![<Twitter>](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="https://www.instagram.com/larii_conver/">![<Instagram>](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-<!--  <a href="https://github.com/Laraconverso">![<GitHub>](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
+<a href="https://gitlab.com/Laraconverso">![<GitLab>](https://img.shields.io/badge/Gitlab-FFFFFF?style=for-the-badge&logo=Gitlab&logoColor=white)</a>
+
+<!--  <a href="https://github.com/Laraconverso">![<GitHub>](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=GitHub&logoColor=white)</a>
  -->
 More info about my repos...
 
