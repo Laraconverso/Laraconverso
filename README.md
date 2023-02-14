@@ -2,6 +2,7 @@
 
 📚 I'm a Computer Science Engineering Student @ FIUBA. And a Back-EndDeveloper Student @ CTD by Digital House.</br>
 💡 I'm currently learning Python.
+🔍 Intrested in Big Data and ML.
 
 <h3 align="left">Languages and Tools:</h3>
 
