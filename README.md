@@ -28,8 +28,8 @@
  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
  ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-<!--  ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) -->
  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)  
+<!--  ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) -->
   
 <!-- 
 NEW BADGES FROM: https://github.com/Ileriayo/markdown-badges
@@ -63,7 +63,7 @@ icon colors from: https://simpleicons.org/?q=my
 <a href="mailto:laraconverso@gmail.com" >![<Mail>](https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://twitter.com/laritss1">![<Twitter>](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="https://www.instagram.com/larii_conver/">![<Instagram>](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-<a href="https://gitlab.com/Laraconverso">![<GitLab>](https://img.shields.io/badge/Gitlab-FFFFFF?style=for-the-badge&logo=Gitlab&logoColor=white)</a>
+<a href="https://gitlab.com/Laraconverso">![<GitLab>](https://img.shields.io/badge/Gitlab-FFFFFF?style=for-the-badge&logo=Gitlab&logoColor=orange)</a>
 
 <!--  <a href="https://github.com/Laraconverso">![<GitHub>](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=GitHub&logoColor=white)</a>
  -->
