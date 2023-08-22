@@ -69,10 +69,11 @@ icon colors from: https://simpleicons.org/?q=my
  -->
 More info about my repos...
 
-<!-- ![Lara's Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laraconverso&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laraconverso&theme=radical)](https://github.com/Laraconverso/github-readme-stats)
-![Lara's github stats](https://github-readme-stats.vercel.app/api?username=Laraconverso&show_icons=true&theme=radical)
-
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LaraConverso&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=1" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LaraConverso&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=2" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=LaraConverso&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 <!--
 **Laraconverso/Laraconverso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
