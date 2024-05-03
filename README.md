@@ -1,6 +1,6 @@
 Hi there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3%">
 
-📚 I'm a Computer Engineering Student @ FIUBA. And a Back-End Developer Student @ CTD by Digital House.</br>
+📚 I'm a Back-End Developer. And a Computer Engineering Student @ FIUBA. </br>
 💡 I'm currently learning C++</br>
 <!-- 🔍 Intrested in Big Data and ML. -->
 
