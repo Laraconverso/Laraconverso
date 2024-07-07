@@ -1,7 +1,7 @@
 <h3>Hi there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3%"></h3>
 
 📚 I'm a Back-End Developer. And a Computer Engineering Student @ FIUBA. </br>
-💡 I'm currently learning C++</br>
+💡 I'm currently learning Swift</br>
 <!-- 🔍 Intrested in Big Data and ML. -->
 
 <h3 align="left">Languages and Tools:</h3>
