@@ -63,7 +63,7 @@ icon colors from: https://simpleicons.org/?q=my
 <a href="https://www.linkedin.com/in/laraconverso/">![<LinkdeIn>](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=0000)</a>
 <a href="https://x.com/laritss1">![<X>](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)</a>
 <a href="https://gitlab.com/Laraconverso">![<GitLab>](https://img.shields.io/badge/Gitlab-FFFFFF?style=for-the-badge&logo=Gitlab&logoColor=orange)</a>
-<!--<a href="mailto:laraconverso@gmail.com" >![<Mail>](https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)</a>-->
+<a href="mailto:laraconverso@gmail.com" >![<Mail>](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <!-- <a href="https://www.instagram.com/larii_conver/">![<Instagram>](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)</a> -->
 
 
