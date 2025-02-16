@@ -16,12 +16,12 @@
   
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
- ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
  ![SpringBoot](https://img.shields.io/badge/-springboot-%4BC52F?style=for-the-badge&logo=springboot&logoColor=white)
  ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
  
 <!--  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+ ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
  ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  -->
   
@@ -64,7 +64,7 @@ icon colors from: https://simpleicons.org/?q=my
 <a href="https://x.com/laritss1">![<X>](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)</a>
 <a href="https://gitlab.com/Laraconverso">![<GitLab>](https://img.shields.io/badge/Gitlab-FFFFFF?style=for-the-badge&logo=Gitlab&logoColor=orange)</a>
 <a href="mailto:laraconverso@gmail.com" >![<Mail>](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<!-- <a href="https://www.instagram.com/larii_conver/">![<Instagram>](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)</a> -->
+
 
 
 <!--  <a href="https://github.com/Laraconverso">![<GitHub>](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=GitHub&logoColor=white)</a>
